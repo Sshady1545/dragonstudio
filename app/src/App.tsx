@@ -900,7 +900,7 @@ const SocialSection = () => {
       icon: Youtube,
       description: 'Shady kanalından içerikleri keşfet!',
       link: 'https://youtube.com/@Sshady1545',
-      subscribers: 3000,
+      subscribers: 4000,
       color: 'from-red-500/20 to-orange-500/20'
     }
   ];
